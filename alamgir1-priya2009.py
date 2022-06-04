@@ -55,7 +55,7 @@ def logo2():
       
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m MD. ALAMGIR\x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :7\x1b[0m\x1b[1;97m] \033[1;37m 
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Contact :+8801712034653\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : MD. ALAMGIR \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/cyberattack07 \x1b[0m\x1b[1;97m]
@@ -116,7 +116,7 @@ class Main:
 				GET = '\r'
 			else:
 				key = ("\033[0;97m -")
-				stat = ("\033[0;97mFREE USER")
+				stat = ("\033[0;97PREMIUM")
 				FY = '\033[0;90m'
 				FG = '\033[0;90m'
 				GET = '\033[0;97m [P] GET PREMIUM'
@@ -140,7 +140,7 @@ class Main:
 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m MD. ALAMGIR\x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 7\x1b[0m\x1b[1;97m] \033[1;37m 
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Contact : +8801712034653\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : MD. ALAMGIR \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/cyberattack07 \x1b[0m\x1b[1;97m]
@@ -148,11 +148,11 @@ class Main:
 ───────────────────────────────────────────────────────× 
     """)
 		print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s6"%(G,R,G,B,G))
+		print("%s [%s•%s] %sContack   : %s+8801712034653"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("───────────────────────────────────────────────────────× ")
-		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m SUBCRIBE MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
+		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m FOLLOW MY FACEBOOK ACCOUNT FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://www.facebook.com/Tera.Papa.Alamgir.441"])
 		print("───────────────────────────────────────────────────────× ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(PREMIUM)"%(G,R,G,Y,B))
@@ -196,7 +196,7 @@ class Main:
 				print("───────────────────────────────────────────────────────× ")
 				print("\033[0;92m[=×>]\033[0;92m NOTE : BEFORE LOGIN CP IDZ ")
 				print("\033[0;92m[=×>]\033[0;92m NOTE : CLEAR YOUR FACEBOOK /BROWSER DATA " )
-				print("\033[0;92m[=×>]\033[0;92m NOTE : ENJOY FREE TOOL")
+				print("\033[0;92m[=×>]\033[0;92m NOTE : ENJOY PREMIUM +01712034653")
 				print("\033[0;92m[=×>]\033[0;92m NOTE : HAR 10 MIN BAD AIRPLAN MOD/FLIGHT MOD ON KRO ")
 				print("\033[0;97m───────────────────────────────────────────────────────× ")
 				for user in self.id:
