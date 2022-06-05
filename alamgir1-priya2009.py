@@ -82,11 +82,11 @@ def notice():
  
  
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
-	os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl")
+	os.system("xdg-open https://m.me/Tera.Papa.Alamgir.441/?app=fbl")
 	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
 	runtxt("\033[0;97m Key group admin ke post pe coment krein")
-	os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl"])
+	os.system("xdg-open https://m.me/Tera.Papa.Alamgir.441/?app=fbl")
+	subprocess.check_output(["am", "start", "https://m.me/Tera.Papa.Alamgir.441/?app=fbl"])
 	
  
  
